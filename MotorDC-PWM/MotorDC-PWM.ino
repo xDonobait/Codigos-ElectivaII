@@ -1,4 +1,4 @@
-//Codigo motor DC usando PWM - Donoban Peralta
+//Codigo motor DC usando PWM
 
 int motorPin = 9;  // Pin conectado a la base del transistor
 
