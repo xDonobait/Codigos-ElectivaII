@@ -1,4 +1,4 @@
-//Ejemplo Proyecto Servo - Donoban Peralta
+//Ejemplo Proyecto Servo
 
 #include <Servo.h>  // Incluir la biblioteca Servo
 
