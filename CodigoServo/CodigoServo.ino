@@ -1,4 +1,4 @@
-//Codigo Servomotor - Donoban Peralta
+//Codigo Servomotor
 #include <Servo.h>
 
 Servo myServo;  // Crear un objeto Servo
